@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semer Tlili</h1>
 
 <h3 align="center">
-  Frontend Developer | Angular & Web Enthusiast 🇹🇳
+  Frontend Developer |   Web Enthusiast 🇹🇳
 </h3>
 
 <p align="center">
